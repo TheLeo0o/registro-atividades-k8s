@@ -9,8 +9,8 @@ resources:
 - api-deployment.yaml
 - api-service.yaml
 images:
-- name: TheLeo0o/registro-atividades-backend
-  newName: TheLeo0o/registro-atividades-backend
+- name: leonux77/registro-atividades-backend
+  newName: leonux77/registro-atividades-backend
   newTag: latest
 - name: leonux77/registro-atividades-backend
   newTag: be11d3296d8c66d12a082d2ded35e6323c4522a3
